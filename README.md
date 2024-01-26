@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kineneibrahim
-- 👀 I’m interested in ... python and Java
-- 🌱 I’m currently learning ... python
+- 👀 I’m interested in ... html,css, JavaScript and react 
+- 🌱 I’m currently learning ... Html and css 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 
